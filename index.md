@@ -27,6 +27,7 @@
     * Enlazar repositorio local con repositorio remoto -> git remote add
     * git push origin master
     * Aprender a bajar cambios: Simular cambio en index.html mediante github. Descargar con git pull
+    * Paso de prueba
 
 ## Sesión 2
 * ### Github
