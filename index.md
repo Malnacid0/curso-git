@@ -32,6 +32,7 @@
 
 ## Sesión 2
 * ### Uso avanzado de git
+    * gitignore -> Explicación de qué es, página con ejemplos de gitignore según framework
     * git log
     * git diff
     * ### Ramas
@@ -51,6 +52,11 @@
     * Repositorios famosos: ruby on rails, django, bootstrap
 
 ## Sesión 3
+* ### Github Projects
+
+* ### Gitflow
+    * Trabajo en equipo
+    * Funcionamiento
 
 ## Sesión 4
 * ### Extras
