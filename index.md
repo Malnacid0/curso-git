@@ -2,7 +2,6 @@
 
 ## Sesión 1
 * ### Introducción
-    * Paso fake
     * Problema a la hora de trabajar sin scv
     * Qué es un sistema de control de versiones
     * Sistemas de control de versiones: Subversion, Mercurial, Microsoft Foundation, Git, Bazaar...
@@ -27,14 +26,11 @@
     * Hacer commit "Primer commit"
     * Explicación buenas prácticas mensajes commits. Frecuentes, mensajes descriptivos
     * Enlazar repositorio local con repositorio remoto -> git remote add
-    * git push origin master
-    * Aprender a bajar cambios: Simular cambio en index.html mediante github. Descargar con git pull
+    * git push origin master -> Explicar git push
+    * Aprender a bajar cambios: Simular cambio en index.html mediante github
+    * Hacer git pull origin master. Explicar git pull (git fetch + git merge)
 
 ## Sesión 2
-* ### Conflictos
-    * Explicar qué es un conflicto
-    * Simular uno
-    
 * ### Uso avanzado de git
     * git log
     * git diff
@@ -43,11 +39,12 @@
         * git branch, git checkout
         * git checkout
         * Resolución conflicto
-        * Enseñar cómo lo resuelve VSCode
+    
 * ### Git Desktop
     * Uso básico
     * Demostración VSCode
     * Resto de clientes visuales
+
 * ### Github
     * Rivales: Bitbucket, 
     * Importancia en el Open Source
@@ -56,7 +53,6 @@
 ## Sesión 3
 
 ## Sesión 4
-
 * ### Extras
     * Clientes visuales: Github Desktop, GitX-dev, SourceTree
     * Markdown -> Cheatsheet, README.md
