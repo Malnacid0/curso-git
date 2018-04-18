@@ -2,6 +2,7 @@
 
 ## Sesión 1
 * ### Introducción
+    * Paso fake
     * Problema a la hora de trabajar sin scv
     * Qué es un sistema de control de versiones
     * Sistemas de control de versiones: Subversion, Mercurial, Microsoft Foundation, Git, Bazaar...
