@@ -14,26 +14,43 @@
     * Repositorio -> Local y remoto
     * Repositorio remoto -> Github. Crear cuenta
 * ### Uso básico de Git
-    * Instalación
+    * Instalación windows, linux, mac
     * Creación de repositorio con index.html -> git init
     * Explicación directorio .git
     * Creación de repositorio vacío en github
     * Añadir archivo nuevo -> git add . / git add index.html
-    * Configuración usuario:  
+    * Configuración usuario:
       git config --local user.name "ejemplo"
       git config --local user.email "ejemplo@ejemplo.com"
+    * Explicar directorio .git y cambio paso previo
     * Hacer commit "Primer commit"
-    * Explicación buenas prácticas commits. Frecuentes, mensajes descriptivos
+    * Explicación buenas prácticas mensajes commits. Frecuentes, mensajes descriptivos
     * Enlazar repositorio local con repositorio remoto -> git remote add
     * git push origin master
     * Aprender a bajar cambios: Simular cambio en index.html mediante github. Descargar con git pull
-    * Paso de prueba
 
 ## Sesión 2
+* ### Conflictos
+    * Explicar qué es un conflicto
+    * Simular uno
+    
+* ### Uso avanzado de git
+    * git log
+    * git diff
+    * ### Ramas
+        * Concepto ramas
+        * git branch, git checkout
+        * git checkout
+        * Resolución conflicto
+        * Enseñar cómo lo resuelve VSCode
+* ### Git Desktop
+    * Uso básico
+    * Demostración VSCode
+    * Resto de clientes visuales
 * ### Github
     * Rivales: Bitbucket, 
     * Importancia en el Open Source
-    * Repositorios famosos: ruby on rails, django, bootstrap 
+    * Repositorios famosos: ruby on rails, django, bootstrap
 
 ## Sesión 3
 
@@ -42,3 +59,4 @@
 * ### Extras
     * Clientes visuales: Github Desktop, GitX-dev, SourceTree
     * Markdown -> Cheatsheet, README.md
+    * Cómo gestiona Git VSCode
