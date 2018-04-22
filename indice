@@ -1,0 +1,9 @@
+Introducción. Qué es un sistema de control de versiones.
+Introducción a Git. Breve descripción. Importancia en el Open Source.
+Uso básico de Git. Instalación, creación de repositorio, commits, actualización de repositorio, configuración...
+Uso avanzado de Git. Gitignore, logs, diff, ramas, forks, conflictos.
+Uso de Git gráfico mediante Git Desktop.
+Introducción a Github.
+Funcionalidades extras Github: Wiki, Issues, Gist, Github Projects, Github Pages...
+Metodologías de trabajo en equipo. Gitflow
+Extras: Integración de Git en ides/editores, Markdown...

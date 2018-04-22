@@ -53,6 +53,7 @@
 
 ## Sesión 3
 * ### Github avanzado
+    * Gist
     * Wiki
     * Issues
     * Github Projects
