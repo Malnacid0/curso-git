@@ -46,17 +46,22 @@
     * Demostración VSCode
     * Resto de clientes visuales
 
-* ### Github
+* ### Introducción a Github
     * Rivales: Bitbucket, 
     * Importancia en el Open Source
     * Repositorios famosos: ruby on rails, django, bootstrap
 
 ## Sesión 3
-* ### Github Projects
+* ### Github avanzado
+    * Wiki
+    * Issues
+    * Github Projects
+    * Github Pages
 
-* ### Gitflow
+* ### Metodologías de trabajo en equipo
     * Trabajo en equipo
     * Funcionamiento
+    * Gitflow
 
 ## Sesión 4
 * ### Extras
