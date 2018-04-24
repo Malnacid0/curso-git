@@ -42,6 +42,9 @@
         * git branch, git checkout
         * git checkout
         * Resolución conflicto
+    * Recogiendo cable: git checkout, git reset HEAD
+        * git reset HEAD~1 -> Anula último commit por completo
+        * git reset --soft HEAD~1 -> Anula último commit
     
 * ### Git Desktop
     * Uso básico
