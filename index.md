@@ -25,16 +25,18 @@
     * Explicar directorio .git y cambio paso previo
     * Hacer commit "Primer commit"
     * Explicación buenas prácticas mensajes commits. Frecuentes, mensajes descriptivos
+    * git diff
     * Enlazar repositorio local con repositorio remoto -> git remote add
     * git push origin master -> Explicar git push
     * Aprender a bajar cambios: Simular cambio en index.html mediante github
     * Hacer git pull origin master. Explicar git pull (git fetch + git merge)
+    * Subir otro archivo footbar.html mediante git add, git commit
 
 ## Sesión 2
 * ### Uso avanzado de git
     * gitignore -> Explicación de qué es, página con ejemplos de gitignore según framework
+    * git diff en profundidad: diferencias entre commits
     * git log
-    * git diff
     * ### Ramas
         * Concepto ramas
         * git branch, git checkout
