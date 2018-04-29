@@ -41,15 +41,17 @@
         * Concepto ramas
         * git branch, git checkout
         * git checkout
+    * ### Merges / Fusiones
+        * Qué es un merge y cómo hacerlo
         * Resolución conflicto
     * Recogiendo cable: git checkout, git reset HEAD
         * git reset HEAD~1 -> Anula último commit por completo
         * git reset --soft HEAD~1 -> Anula último commit
     
 
-* ### Git Desktop
+* ### Git GUI
     * Uso básico
-    * Demostración VSCode
+    * Ejercicio de operaciones básicas
     * Resto de clientes visuales
 
 * ### Introducción a Github
