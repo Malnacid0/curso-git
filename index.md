@@ -68,7 +68,6 @@
     * Trabajo en equipo
     * Funcionamiento
     * Gitflow
-apsodjasij
 
 ## Sesión 4
 * ### Extras
