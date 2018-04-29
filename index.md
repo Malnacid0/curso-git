@@ -46,6 +46,7 @@
         * git reset HEAD~1 -> Anula último commit por completo
         * git reset --soft HEAD~1 -> Anula último commit
     
+
 * ### Git Desktop
     * Uso básico
     * Demostración VSCode
