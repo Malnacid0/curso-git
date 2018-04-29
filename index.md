@@ -35,18 +35,18 @@
 ## Sesión 2
 * ### Uso avanzado de git
     * gitignore -> Explicación de qué es, página con ejemplos de gitignore según framework
-    * git diff en profundidad: diferencias entre commits
-    * git log
     * ### Ramas
         * Concepto ramas
         * git branch, git checkout
         * git checkout
         * Resolución conflicto
+    * git diff en profundidad: diferencias entre commits
+    * git log
     * Recogiendo cable: git checkout, git reset HEAD
         * git reset HEAD~1 -> Anula último commit por completo
         * git reset --soft HEAD~1 -> Anula último commit
     
-* ### Git Desktop
+* ### Git Bash
     * Uso básico
     * Demostración VSCode
     * Resto de clientes visuales
