@@ -1,3 +1,4 @@
+CONFLICTO!
 # Curso Git
 
 ## Sesión 1
