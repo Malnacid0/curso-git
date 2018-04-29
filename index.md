@@ -1,4 +1,3 @@
-CONFLICTO!
 # Curso Git
 
 ## Sesión 1
@@ -40,16 +39,18 @@ CONFLICTO!
         * Concepto ramas
         * git branch, git checkout
         * git checkout
+    * ### Merges / Fusiones
+        * Qué es un merge y cómo hacerlo
         * Resolución conflicto
     * git diff en profundidad: diferencias entre commits
     * git log
     * Recogiendo cable: git checkout, git reset HEAD
         * git reset HEAD~1 -> Anula último commit por completo
         * git reset --soft HEAD~1 -> Anula último commit
-    
-* ### Git Bash
+        
+* ### Git GUI
     * Uso básico
-    * Demostración VSCode
+    * Ejercicio de operaciones básicas
     * Resto de clientes visuales
 
 * ### Introducción a Github
