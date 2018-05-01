@@ -35,8 +35,6 @@
 ## Sesión 2
 * ### Uso avanzado de git
     * gitignore -> Explicación de qué es, página con ejemplos de gitignore según framework
-    * git diff en profundidad: diferencias entre commits
-    * git log
     * ### Ramas
         * Concepto ramas
         * git branch, git checkout
@@ -45,18 +43,22 @@
     * Recogiendo cable: git checkout, git reset HEAD
         * git reset HEAD~1 -> Anula último commit por completo
         * git reset --soft HEAD~1 -> Anula último commit
+        * Recuperando ramas borradas: git reflog, git checkout, git checkout -b
+    * Comandos extras:
+        git gc, git log, git diff
     
 * ### Git Desktop
     * Uso básico
     * Demostración VSCode
     * Resto de clientes visuales
 
+## Sesión 3
+
 * ### Introducción a Github
     * Rivales: Bitbucket, 
     * Importancia en el Open Source
     * Repositorios famosos: ruby on rails, django, bootstrap
 
-## Sesión 3
 * ### Github avanzado
     * Gist
     * Wiki
@@ -64,12 +66,12 @@
     * Github Projects
     * Github Pages
 
+
+## Sesión 4
 * ### Metodologías de trabajo en equipo
     * Trabajo en equipo
     * Funcionamiento
     * Gitflow
-
-## Sesión 4
 * ### Extras
     * Clientes visuales: Github Desktop, GitX-dev, SourceTree
     * Markdown -> Cheatsheet, README.md
