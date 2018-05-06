@@ -47,10 +47,9 @@
     * Comandos extras:
         git gc, git log, git diff
     
-* ### Git Desktop
-    * Uso básico
-    * Demostración VSCode
-    * Resto de clientes visuales
+* ### Github Desktop
+    * Instalación
+    * Uso básico: Ejercicio "libre"
 
 ## Sesión 3
 
@@ -60,9 +59,10 @@
     * Repositorios famosos: ruby on rails, django, bootstrap
 
 * ### Github avanzado
+    * Issues
+    * Pull request
     * Gist
     * Wiki
-    * Issues
     * Github Projects
     * Github Pages
 
